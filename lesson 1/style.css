@@ -3,5 +3,10 @@
 }
 
 .Password {
-    color: chartreuse;
+    color: rgb(255, 0, 0);
+}
+
+.button {
+    background-color: black;
+    color: white;
 }
