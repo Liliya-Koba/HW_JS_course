@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+}
+
+p {
+    color: #e07d0c;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+h5 {
+    color:red
+}
+
+h6 {
+    color:slategrey
+}
