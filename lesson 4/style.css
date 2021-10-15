@@ -1,0 +1,151 @@
+.black {
+    padding: 5px;
+    border: solid 2px black;
+    float: left;
+}
+
+.green1 {
+    padding: 5px;
+    border: solid 2px green;
+}
+
+.pink1 {
+    height: 704px;
+    width: 704px;
+    padding: 5px;
+    border: solid 2px palevioletred;
+}
+
+.block {
+    background-color: none;
+    float: left;
+}
+
+.bgreen {
+    border: solid 3px black;
+    background-color: greenyellow;
+    height: 70px;
+    width: 70px;
+}
+
+.bgray {
+    border: solid 3px black;
+    background-color: gray;
+    height: 70px;
+    width: 70px;
+}
+
+.bpink {
+    border: solid 3px black;
+    background-color: rgb(230, 132, 145);
+    height: 70px;
+    width: 70px;
+}
+
+.borang {
+    border: solid 3px black;
+    background-color: red;
+    height: 70px;
+    width: 70px;
+}
+
+.bblue {
+    border: solid 3px black;
+    background-color: rgb(107, 0, 128);
+    height: 70px;
+    width: 70px;
+}
+
+.b1 {
+    margin-top: 627px; 
+}
+
+.b2 {
+    margin-left: 15px;
+    margin-top: 181px; 
+}
+
+.b3 {
+    margin-left: 15px;
+    margin-top: 279px; 
+}
+
+.b4 {
+    margin-left: 15px;
+    margin-top: 15px; 
+}
+
+.b5 {
+    margin-left: 10px;
+    margin-top: 180px;
+}
+
+.b6 {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.b7 {
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.b8 {
+    margin-left: 15px;
+    margin-top: 189px; 
+}
+
+.b9 {
+    margin-top: 354px;
+    margin-left: 5px;
+}
+
+.b10 {
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.b11{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.b12{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.b13{
+    margin-left: 15px;
+    margin-top: 446px; 
+}
+
+.b14{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.b15{
+    margin-left: 15px;
+    margin-top: 446px;
+}
+
+.b16{
+    margin-top: 105px;
+    margin-left: 5px;
+}
+
+.b17{
+    margin-top: 446px;
+    margin-left: 15px; 
+}
+
+.b18{
+    margin-top: 105px;
+    margin-left: 5px;
+}
+
+.b19{
+    margin-top: 627px;
+    margin-left: 5px;
+}
